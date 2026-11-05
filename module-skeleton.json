@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-opening-balances-dart-desktop",
+  "capabilityKey": "liberusoftware/module-accounting-opening-balances",
+  "presentation": "dart-desktop",
+  "package": "module_accounting_opening_balances_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/accounting/nextjs/opening-balances.md",
+  "presentationPlan": "projects/accounting/features/opening-balances.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
